@@ -17,3 +17,9 @@ function rgbToHex(red, green, blue) {
   // Return the final color code in uppercase
   return `#${rHex}${gHex}${bHex}`.toUpperCase();
 }
+
+// Example usage
+console.log(rgbToHex(255, 99, 71));   // #FF6347
+console.log(rgbToHex(0, 0, 0));       // #000000
+console.log(rgbToHex(173, 216, 230)); // #ADD8E6
+console.log(rgbToHex(-5, 300, 100));  // Invalid input
