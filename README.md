@@ -22,14 +22,18 @@ It's a basic logic challenge that demonstrates how to work with numbers, strings
 ```bash
 node main.js
 ```
-## Exemple
+## Exemple Output
 
--rgbToHex(255, 99, 71); // Output: #FF6347
+- rgbToHex(255, 99, 71); // Output: #FF6347
 
 # Code Style
 
 - Variables in English only
--Logic must be readable and clear
+- Logic must be readable and clear
+
+## Author
+
+Developed by Rafael Campos as part of a public portfolio project to demonstrate clean logic and professionalism.
 
 # License
 
