@@ -1,4 +1,4 @@
-# RGB to Hex Converter
+# RGB To Hex Converter
 
 ## Description
 
@@ -24,7 +24,7 @@ node main.js
 ```
 ## Exemple
 
--rgbToHex(255, 99, 71); // returns ->#FF6347
+-rgbToHex(255, 99, 71); // Output: #FF6347
 
 # Code Style
 
@@ -33,4 +33,4 @@ node main.js
 
 # License
 
-- MIT Lincense
+- MIT Lincense.
